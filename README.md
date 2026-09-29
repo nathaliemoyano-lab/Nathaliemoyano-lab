@@ -65,4 +65,5 @@ Proyecto integral de análisis que incluye limpieza y validación de datos, aná
 Puedes conocer más sobre mi trayectoria profesional en:
 
 💼 [LinkedIn – Nathalie Moyano Caroca](https://www.linkedin.com/in/nathalie-moyano-caroca/)
+📧 [Correo electrónico](mailto:moyanocarocan@gmail.com)
 
