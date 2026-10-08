@@ -41,16 +41,43 @@ Matplotlib · Seaborn · Plotly
 
 Actualmente estoy incorporando a mi portafolio proyectos enfocados en **análisis comercial, Business Intelligence y visualización de datos**.
 
-### 📊 Desempeño Comercial | Power BI
-Análisis y transformación de datos para responder preguntas de negocio mediante un dashboard interactivo y una narrativa basada en datos.
+### 📊 Andes Retail Group | Análisis de Desempeño Comercial
 
-### 📈 Análisis Comercial | Power BI
-Modelado mediante esquema estrella, creación de medidas analíticas, análisis de tendencias e inteligencia de tiempo y análisis de recurrencia mediante cohortes.
+**Herramientas:** Power BI · Análisis comercial · Visualización de datos
 
-### 🛵 RappiPlus | SQL · Python · Power BI
-Proyecto integral de análisis que incluye limpieza y validación de datos, análisis de rentabilidad, funnel, retención, cohortes y comunicación de resultados mediante Power BI.
+Proyecto orientado al análisis del desempeño comercial mediante la transformación y visualización de datos para responder preguntas de negocio.
 
-> Próximamente agregaré los enlaces a cada repositorio.
+**Competencias aplicadas:**
+- Análisis de indicadores de desempeño comercial.
+- Identificación de tendencias y patrones de negocio.
+- Diseño de dashboards interactivos.
+- Comunicación de resultados para apoyar decisiones comerciales.
+
+### 📈 Andes Capital Real Estate | Business Intelligence y Análisis Comercial
+
+**Herramientas:** Power BI · DAX · Modelado de datos
+
+Proyecto de análisis comercial del sector inmobiliario, enfocado en la construcción de indicadores, el análisis de tendencias y el comportamiento del negocio.
+
+**Competencias aplicadas:**
+- Modelado de datos mediante esquema estrella.
+- Creación de medidas analíticas con DAX.
+- Análisis de evolución temporal de indicadores.
+- Análisis de recurrencia mediante cohortes.
+- Visualización de resultados mediante Power BI.
+
+### 🛵 [RappiPlus | Análisis Comercial, Rentabilidad y Retención](https://github.com/nathaliemoyano-lab/rappiplus-analisis-comercial)
+
+**Herramientas:** Python · SQL · Power BI · Análisis estadístico
+
+Proyecto integral de análisis comercial enfocado en evaluar el desempeño del negocio, identificar oportunidades de mejora y comunicar resultados para la toma de decisiones.
+
+**Competencias aplicadas:**
+- Limpieza, validación y preparación de datos con Python.
+- Análisis de ingresos, costos y rentabilidad.
+- Análisis de conversión mediante funnels.
+- Estudio de retención de clientes y cohortes.
+- Visualización de indicadores comerciales mediante dashboards en Power BI.
 
 ---
 
