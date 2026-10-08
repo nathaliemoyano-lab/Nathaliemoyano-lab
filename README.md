@@ -2,11 +2,11 @@
 
 ### 📊 Analista de Datos Jr. | Business Intelligence | Power BI | Análisis Comercial
 
-Soy **Analista de Datos Jr.**, orientada al **análisis comercial y Business Intelligence**, con conocimientos en **Power BI, SQL, Python y Excel**.
+Soy **Analista de Datos Jr.**, con formación finalizada y orientación al **Análisis Comercial y Business Intelligence**. Manejo herramientas como **Power BI, SQL, Python y Excel** para transformar datos en información clara y accionable que apoye la toma de decisiones.
 
-Me interesa transformar datos en información clara y accionable, identificando **patrones, tendencias e insights** que permitan comprender el comportamiento de un negocio y apoyar la toma de decisiones.
+Me enfoco en la **limpieza y preparación de datos, análisis de indicadores comerciales, identificación de tendencias y desarrollo de dashboards interactivos**. Además, utilizo herramientas estadísticas de Python, como **SciPy**, para realizar **pruebas de hipótesis y análisis estadísticos** que permitan evaluar resultados y respaldar conclusiones con evidencia.
 
-Mi experiencia previa en gestión comercial me permitió trabajar directamente con **ventas, ingresos, costos e inventario**, desarrollando una visión de negocio que hoy integro con el análisis de datos.
+Mi experiencia previa en **gestión comercial, ventas, ingresos, costos e inventario** me aporta una visión práctica del negocio, que hoy complemento con habilidades técnicas para identificar oportunidades de mejora y comunicar hallazgos relevantes.
 
 ---
 
@@ -41,7 +41,7 @@ Matplotlib · Seaborn · Plotly
 
 Actualmente estoy incorporando a mi portafolio proyectos enfocados en **análisis comercial, Business Intelligence y visualización de datos**.
 
-### 📊 Andes Retail Group | Análisis de Desempeño Comercial
+### 📊 [Andes Retail Group | Análisis de Desempeño Comercial](https://github.com/nathaliemoyano-lab/Analisis-comercial-andes-retail-powerbi)
 
 **Herramientas:** Power BI · Análisis comercial · Visualización de datos
 
@@ -53,7 +53,7 @@ Proyecto orientado al análisis del desempeño comercial mediante la transformac
 - Diseño de dashboards interactivos.
 - Comunicación de resultados para apoyar decisiones comerciales.
 
-### 📈 Andes Capital Real Estate | Business Intelligence y Análisis Comercial
+### 📈 [Andes Capital Real Estate | Business Intelligence y Análisis Comercial](https://github.com/nathaliemoyano-lab/analisis-inmobiliario-andes-capital-powerbi)**
 
 **Herramientas:** Power BI · DAX · Modelado de datos
 
